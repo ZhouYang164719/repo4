@@ -20,6 +20,7 @@ public class Practice_01 {
                     System.out.print(i+"\t");
                 }
             }
+            System.out.println(12342);
         }
     }
 }
